@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0735-asteroid-collision](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0402-remove-k-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
