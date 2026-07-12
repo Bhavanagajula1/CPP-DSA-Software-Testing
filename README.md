@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
@@ -33,4 +34,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
