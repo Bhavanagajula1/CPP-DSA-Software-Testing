@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0374-guess-number-higher-or-lower) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
