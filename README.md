@@ -60,4 +60,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0410-split-array-largest-sum) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
