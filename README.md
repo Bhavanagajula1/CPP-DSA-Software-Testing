@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0735-asteroid-collision) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1539-kth-missing-positive-number](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1539-kth-missing-positive-number) |
 ## Stack
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0735-asteroid-collision) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0402-remove-k-digits) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
