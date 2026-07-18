@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0410-split-array-largest-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhavanagajula1/CPP-DSA-Software-Testing/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
