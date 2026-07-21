@@ -13,9 +13,10 @@ class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>>ans;
-        if(root==nullptr){return ans;}//fisrt ea root null anuko ans return 
+        if(root==NULL)
+            return ans;
         queue<TreeNode*>q;
-        q.push(root);//first root push ayipodhi size=1,pop ayidhi level loki push
+        q.push(root);
         while(!q.empty()){
             int size=q.size();
             vector<int>level;
@@ -23,8 +24,11 @@ public:
                 TreeNode* node=q.front();
                 q.pop();
                 level.push_back(node->val);
-                if(node->left!=nullptr){q.push(node->left);}
-                if(node->right!=nullptr){q.push(node->right);}
+                if(node->left){
+                    q.push(node->left);
+                }if(node->right){
+                    q.push(node->right);
+                }
             }
             ans.push_back(level);
         }
